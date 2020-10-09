@@ -1,4 +1,4 @@
-docSDK-swift
+docsdk-swift
 =======================
 
 This is a lightweight wrapper for the [docSDK](https://docSDK.com) API, written in Swift. It is compatible with iOS 9.0+ / Mac OS X 10.9+ and requires Xcode 9.0.
